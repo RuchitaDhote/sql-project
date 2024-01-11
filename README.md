@@ -4,7 +4,4 @@ In this project, I am going to analyze international debt data collected by The 
 # Technology Used
 SQL
 
-# Inspiration
-Portfolio project to determine debtor countries and compare amounts
-
 
